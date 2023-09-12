@@ -9,7 +9,16 @@ body {
   background-color: lightgray;
   font-family: sans-serif;
 }
-
 section > h2 {
   margin-top: 70px;
+}
+
+.img-center {
+  text-align: center;
+}
+
+.img-center > img {
+  width: 70%;
+  padding: 5px;
+  border: 1px solid black;
 }
