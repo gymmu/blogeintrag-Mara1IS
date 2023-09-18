@@ -8,13 +8,24 @@ body {
   margin: 0;
   background-color: rgb(221, 195, 211);
   font-family: sans-serif;
+  padding: 2rem;
 }
+
+h1 {
+  font-size: 3rem;
+}
+
+p {
+  line-height: 1.5;
+}
+
 section > h2 {
   margin-top: 70px;
 }
 
 .img-center {
   text-align: center;
+  margin: 1rem 0;
 }
 
 .img-center > img {
