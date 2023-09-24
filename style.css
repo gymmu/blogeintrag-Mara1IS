@@ -8,6 +8,11 @@
   box-sizing: border-box;
 }
 
+/* https://stackoverflow.com/questions/53543484/smooth-scrolling-in-css */
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   background-color: rgba(243, 204, 132, .4);
