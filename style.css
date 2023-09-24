@@ -17,6 +17,7 @@ body {
   margin: 0;
   background-color: rgba(243, 204, 132, .4);
   font-family: sans-serif;
+  margin-bottom: 10rem;
 }
 
 p { 
@@ -75,9 +76,13 @@ ol li {
   margin-bottom: .5rem;
 }
 
+ul li {
+  margin-bottom: .5rem;
+}
+
 .flexbox {
   display: flex;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .left {
